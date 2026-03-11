@@ -2,6 +2,11 @@
 
 Streamlit application and end-to-end data pipeline for forecasting agricultural crop prices using historical market data, seasonal weather behavior, inflation-aware logic, and an XGBoost regression model.
 
+## Live App
+
+https://spatiotemporal-crop-prediction-fulydpoxeqnc9bjcc79jcj.streamlit.app/
+
+
 ## Quick Start
 
 Run these commands first if you just want the app without reading the full documentation.
